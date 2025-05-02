@@ -1,0 +1,5 @@
+This website is a simplified  blog page with just 2 main pages:
+
+1. Home pages
+2. Specific blog written 
+
